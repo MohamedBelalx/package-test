@@ -1,7 +1,7 @@
 {
     "name": "mb_13/databaseservice",
     "description": "Greetr - A simple Laravel package.",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "version": "3.1.7",
