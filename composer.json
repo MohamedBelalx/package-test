@@ -8,7 +8,7 @@
 
     "autoload": {
         "psr-4": {
-            "DatabaseService\\": "src/"
+            "Mb13\\DatabaseService\\": "src/"
         }
     },
     "authors": [
