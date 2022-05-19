@@ -1,5 +1,5 @@
 {
-    "name": "mb_13/test",
+    "name": "mb_13/DatabaseService",
     "description": "Greetr - A simple Laravel package.",
     "type": "project",
     "license": "MIT",
@@ -8,7 +8,7 @@
 
     "autoload": {
         "psr-4": {
-            "Mb13\\Test\\": "src/"
+            "DatabaseService\\": "src/"
         }
     },
     "authors": [
