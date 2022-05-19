@@ -1,5 +1,9 @@
 {
     "name": "mb_13/test",
+    "description": "Greetr - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Mb13\\Test\\": "src/"
