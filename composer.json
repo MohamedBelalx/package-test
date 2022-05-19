@@ -1,0 +1,17 @@
+{
+    "name": "mb_13/test",
+    "autoload": {
+        "psr-4": {
+            "Mb13\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mbe",
+            "email": "hero.armna@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^9.13"
+    }
+}
