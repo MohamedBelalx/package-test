@@ -9,7 +9,7 @@ class TestModel extends Model
 {
     use HasFactory;
 
-    public function test(){
+    public static function test(){
         echo 'this is test from the fucking model2';
     }
 }
